@@ -1,8 +1,8 @@
 Git branching diagram:
-![branches](../git-log.png)
+![branches](git-log.png)
 
 Git rebase screenshot:
-![rebase](../rebase.png)
+![rebase](rebase.png)
 
 [Spoon-Knife fork](https://github.com/kvverti/Spoon-Knife)
 
